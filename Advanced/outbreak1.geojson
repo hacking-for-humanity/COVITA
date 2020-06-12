@@ -1,0 +1,3405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariana Boggio N.",
+        "screen_name": "marianaboggion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.259495,
+              19.3863707
+            ],
+            [
+              -99.163526,
+              19.3863707
+            ],
+            [
+              -99.163526,
+              19.4734977
+            ],
+            [
+              -99.259495,
+              19.4734977
+            ],
+            [
+              -99.259495,
+              19.3863707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sequoyah Quinton",
+        "screen_name": "SequoyahKTUL8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.0026515,
+              33.615765
+            ],
+            [
+              -94.431332,
+              33.615765
+            ],
+            [
+              -94.431332,
+              37.002328
+            ],
+            [
+              -103.0026515,
+              37.002328
+            ],
+            [
+              -103.0026515,
+              33.615765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Armin Bohnert",
+        "screen_name": "bohnerta"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.6620758,
+              47.903611
+            ],
+            [
+              7.930815,
+              47.903611
+            ],
+            [
+              7.930815,
+              48.070923
+            ],
+            [
+              7.6620758,
+              48.070923
+            ],
+            [
+              7.6620758,
+              47.903611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bellaquita",
+        "screen_name": "kamicazu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.8787349963633,
+              -2.33914999872494
+            ],
+            [
+              -79.6793150000681,
+              -2.33914999872494
+            ],
+            [
+              -79.6793150000681,
+              -2.09438299938001
+            ],
+            [
+              -79.8787349963633,
+              -2.09438299938001
+            ],
+            [
+              -79.8787349963633,
+              -2.33914999872494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u265bTavia J \u2625\ud83c\udfc1",
+        "screen_name": "mrs2lls"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85.847503,
+              38.108678
+            ],
+            [
+              -85.597188,
+              38.108678
+            ],
+            [
+              -85.597188,
+              38.282432
+            ],
+            [
+              -85.847503,
+              38.282432
+            ],
+            [
+              -85.847503,
+              38.108678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MrShep",
+        "screen_name": "mrshepcom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.3840564,
+              51.6722878
+            ],
+            [
+              -2.3378152,
+              51.6722878
+            ],
+            [
+              -2.3378152,
+              51.7177138
+            ],
+            [
+              -2.3840564,
+              51.7177138
+            ],
+            [
+              -2.3840564,
+              51.6722878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Cooper",
+        "screen_name": "BobFoolery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susan",
+        "screen_name": "Susan33251906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.436351,
+              30.1226797
+            ],
+            [
+              -96.360493,
+              30.1226797
+            ],
+            [
+              -96.360493,
+              30.1964999
+            ],
+            [
+              -96.436351,
+              30.1964999
+            ],
+            [
+              -96.436351,
+              30.1226797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oiDoctor",
+        "screen_name": "CoconutDoc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.86894,
+              33.606077
+            ],
+            [
+              -117.695781,
+              33.606077
+            ],
+            [
+              -117.695781,
+              33.773387
+            ],
+            [
+              -117.86894,
+              33.773387
+            ],
+            [
+              -117.86894,
+              33.606077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worldwide\u2122",
+        "screen_name": "bmxministry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.897748,
+              34.083733
+            ],
+            [
+              -118.897748,
+              34.083733
+            ],
+            [
+              -118.897748,
+              34.083733
+            ],
+            [
+              -118.897748,
+              34.083733
+            ],
+            [
+              -118.897748,
+              34.083733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Himani Chandna",
+        "screen_name": "ChandnaHimani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.84252,
+              28.397657
+            ],
+            [
+              77.347652,
+              28.397657
+            ],
+            [
+              77.347652,
+              28.879322
+            ],
+            [
+              76.84252,
+              28.879322
+            ],
+            [
+              76.84252,
+              28.397657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amy Hanson",
+        "screen_name": "AmyHansonPharmD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.940033,
+              41.644102
+            ],
+            [
+              -87.523993,
+              41.644102
+            ],
+            [
+              -87.523993,
+              42.0230669
+            ],
+            [
+              -87.940033,
+              42.0230669
+            ],
+            [
+              -87.940033,
+              41.644102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norma",
+        "screen_name": "normituh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.778559,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.141956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardilla Cyberpunk",
+        "screen_name": "aryxael"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.259495,
+              19.3863707
+            ],
+            [
+              -99.163526,
+              19.3863707
+            ],
+            [
+              -99.163526,
+              19.4734977
+            ],
+            [
+              -99.259495,
+              19.4734977
+            ],
+            [
+              -99.259495,
+              19.3863707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rita von buren",
+        "screen_name": "ritavonbu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.4417596,
+              3.60774
+            ],
+            [
+              -60.2654305,
+              3.60774
+            ],
+            [
+              -60.2654305,
+              8.4530017
+            ],
+            [
+              -67.4417596,
+              8.4530017
+            ],
+            [
+              -67.4417596,
+              3.60774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HONGKONGUIDE - Hong Kong Travel News",
+        "screen_name": "hongkonguide"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.81813,
+              22.1465116
+            ],
+            [
+              114.502196,
+              22.1465116
+            ],
+            [
+              114.502196,
+              22.614177
+            ],
+            [
+              113.81813,
+              22.614177
+            ],
+            [
+              113.81813,
+              22.1465116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpetual Gains",
+        "screen_name": "PerpetualGains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.191421,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.227797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antonio",
+        "screen_name": "antoine__marcus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.948465999276,
+              -0.588618000469648
+            ],
+            [
+              -78.1648970044175,
+              -0.588618000469648
+            ],
+            [
+              -78.1648970044175,
+              0.255476999458879
+            ],
+            [
+              -78.948465999276,
+              0.255476999458879
+            ],
+            [
+              -78.948465999276,
+              -0.588618000469648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mondooggi",
+        "screen_name": "mondo_oggi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3092538,
+              45.3570793
+            ],
+            [
+              10.4669758,
+              45.3570793
+            ],
+            [
+              10.4669758,
+              45.465168
+            ],
+            [
+              10.3092538,
+              45.465168
+            ],
+            [
+              10.3092538,
+              45.3570793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selly",
+        "screen_name": "Selly_mcc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6682318,
+              3.1049064
+            ],
+            [
+              101.7423782,
+              3.1049064
+            ],
+            [
+              101.7423782,
+              3.1921549
+            ],
+            [
+              101.6682318,
+              3.1921549
+            ],
+            [
+              101.6682318,
+              3.1049064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luchibecky@gmail.com",
+        "screen_name": "luchibecky"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.332212443793272,
+              5.1609790696842905
+            ],
+            [
+              7.332212443793272,
+              5.1609790696842905
+            ],
+            [
+              7.332212443793272,
+              5.1609790696842905
+            ],
+            [
+              7.332212443793272,
+              5.1609790696842905
+            ],
+            [
+              7.332212443793272,
+              5.1609790696842905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam Warren",
+        "screen_name": "samwarrenn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.2437359,
+              34.003849
+            ],
+            [
+              -117.103406,
+              34.003849
+            ],
+            [
+              -117.103406,
+              34.1018978
+            ],
+            [
+              -117.2437359,
+              34.1018978
+            ],
+            [
+              -117.2437359,
+              34.003849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eric Billy \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddfa",
+        "screen_name": "EricBillyFR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.6881601,
+              48.4924213
+            ],
+            [
+              7.836256,
+              48.4924213
+            ],
+            [
+              7.836256,
+              48.6461915
+            ],
+            [
+              7.6881601,
+              48.6461915
+            ],
+            [
+              7.6881601,
+              48.4924213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deplorable Rocky\ud83c\udfb8 \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "proudamericanmm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.519851,
+              39.719801
+            ],
+            [
+              -74.689517,
+              39.719801
+            ],
+            [
+              -74.689517,
+              42.516072
+            ],
+            [
+              -80.519851,
+              42.516072
+            ],
+            [
+              -80.519851,
+              39.719801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derek Hamm",
+        "screen_name": "MrHammMath"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.858322,
+              30.69094
+            ],
+            [
+              121.9733,
+              30.69094
+            ],
+            [
+              121.9733,
+              31.86889
+            ],
+            [
+              120.858322,
+              31.86889
+            ],
+            [
+              120.858322,
+              30.69094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rich Rozay",
+        "screen_name": "finance_rich"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.645646,
+              25.837092
+            ],
+            [
+              -93.508131,
+              25.837092
+            ],
+            [
+              -93.508131,
+              36.500695
+            ],
+            [
+              -106.645646,
+              36.500695
+            ],
+            [
+              -106.645646,
+              25.837092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niel Kirk \u5c3c\u5c14\u67ef\u514b",
+        "screen_name": "MasterofIoT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.187663,
+              52.3967831
+            ],
+            [
+              -2.165522,
+              52.3967831
+            ],
+            [
+              -2.165522,
+              52.408313
+            ],
+            [
+              -2.187663,
+              52.408313
+            ],
+            [
+              -2.187663,
+              52.3967831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "crystal",
+        "screen_name": "crystal93804906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.647492,
+              40.861824
+            ],
+            [
+              131.310908,
+              40.861824
+            ],
+            [
+              131.310908,
+              46.291939
+            ],
+            [
+              121.647492,
+              46.291939
+            ],
+            [
+              121.647492,
+              40.861824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "scott ayala",
+        "screen_name": "spookyxpapi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.088985,
+              33.960119
+            ],
+            [
+              -118.0513415,
+              33.960119
+            ],
+            [
+              -118.0513415,
+              33.995499
+            ],
+            [
+              -118.088985,
+              33.995499
+            ],
+            [
+              -118.088985,
+              33.960119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alan Debenedittis",
+        "screen_name": "aloverall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              99.4011172,
+              12.3450248
+            ],
+            [
+              99.9850597,
+              12.3450248
+            ],
+            [
+              99.9850597,
+              12.6490755
+            ],
+            [
+              99.4011172,
+              12.6490755
+            ],
+            [
+              99.4011172,
+              12.3450248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MKT",
+        "screen_name": "iphigeniasghost"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.324818,
+              37.8459532
+            ],
+            [
+              -122.234225,
+              37.8459532
+            ],
+            [
+              -122.234225,
+              37.905738
+            ],
+            [
+              -122.324818,
+              37.905738
+            ],
+            [
+              -122.324818,
+              37.8459532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NY 1920, 100 Years Ago Today",
+        "screen_name": "NY_1920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.255641,
+              40.495865
+            ],
+            [
+              -73.699793,
+              40.495865
+            ],
+            [
+              -73.699793,
+              40.91533
+            ],
+            [
+              -74.255641,
+              40.91533
+            ],
+            [
+              -74.255641,
+              40.495865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "*Cindy N* \ud83e\udd14",
+        "screen_name": "cindyn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.593741856,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -38.433859306
+            ],
+            [
+              145.512528832,
+              -37.5112737225
+            ],
+            [
+              144.593741856,
+              -37.5112737225
+            ],
+            [
+              144.593741856,
+              -38.433859306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russell Charles Neal",
+        "screen_name": "Rustyneal19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.204418,
+              42.474131
+            ],
+            [
+              -83.111076,
+              42.474131
+            ],
+            [
+              -83.111076,
+              42.540305
+            ],
+            [
+              -83.204418,
+              42.540305
+            ],
+            [
+              -83.204418,
+              42.474131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u2c6eI\u0282\u0282 \u0189\u0173\u0256\u025b \ud83d\ude0b",
+        "screen_name": "jenearnhart"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.61771,
+              33.004106
+            ],
+            [
+              -89.644838,
+              33.004106
+            ],
+            [
+              -89.644838,
+              36.499767
+            ],
+            [
+              -94.61771,
+              36.499767
+            ],
+            [
+              -94.61771,
+              33.004106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeina Moukarzel, MD,MPH,MHA #StayHome",
+        "screen_name": "lamsalebanon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.0757711,
+              33.054742
+            ],
+            [
+              36.6232583,
+              33.054742
+            ],
+            [
+              36.6232583,
+              34.6919892
+            ],
+            [
+              35.0757711,
+              34.6919892
+            ],
+            [
+              35.0757711,
+              33.054742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Link Lauren",
+        "screen_name": "itslinklauren"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.683935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jessica De Nova",
+        "screen_name": "abc7jessica"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.86894,
+              33.606077
+            ],
+            [
+              -117.695781,
+              33.606077
+            ],
+            [
+              -117.695781,
+              33.773387
+            ],
+            [
+              -117.86894,
+              33.773387
+            ],
+            [
+              -117.86894,
+              33.606077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawrence Dakshatha Perera MJF",
+        "screen_name": "Lawrence_Perera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.6505263,
+              5.9213829
+            ],
+            [
+              81.8787816,
+              5.9213829
+            ],
+            [
+              81.8787816,
+              9.8359375
+            ],
+            [
+              79.6505263,
+              9.8359375
+            ],
+            [
+              79.6505263,
+              5.9213829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CJ Mordock",
+        "screen_name": "CJMordock"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.137908,
+              29.889574
+            ],
+            [
+              -89.884108,
+              29.889574
+            ],
+            [
+              -89.884108,
+              30.075628
+            ],
+            [
+              -90.137908,
+              30.075628
+            ],
+            [
+              -90.137908,
+              29.889574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanjim Lampard Islam",
+        "screen_name": "islamtanjim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.024209,
+              49.180153
+            ],
+            [
+              -122.892479,
+              49.180153
+            ],
+            [
+              -122.892479,
+              49.299154
+            ],
+            [
+              -123.024209,
+              49.299154
+            ],
+            [
+              -123.024209,
+              49.180153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reed",
+        "screen_name": "BuckslnSix"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.889433,
+              42.491921
+            ],
+            [
+              -86.24955,
+              42.491921
+            ],
+            [
+              -86.24955,
+              47.309715
+            ],
+            [
+              -92.889433,
+              47.309715
+            ],
+            [
+              -92.889433,
+              42.491921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83c\udf3c\ud83c\udf38\ud83d\udd75\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf38\ud83c\udf3c",
+        "screen_name": "shawty_unseen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miamiamia",
+        "screen_name": "mayaanicolai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9988804,
+              14.5134816
+            ],
+            [
+              121.0675443,
+              14.5134816
+            ],
+            [
+              121.0675443,
+              14.5795174
+            ],
+            [
+              120.9988804,
+              14.5795174
+            ],
+            [
+              120.9988804,
+              14.5134816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DrAlvarez",
+        "screen_name": "ccalvarez"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.280284,
+              39.871811
+            ],
+            [
+              -74.955712,
+              39.871811
+            ],
+            [
+              -74.955712,
+              40.13792
+            ],
+            [
+              -75.280284,
+              40.13792
+            ],
+            [
+              -75.280284,
+              39.871811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u0627\u0644\u0634\u0631\u064a\u0641 \u062e\u0627\u0644\u062f \u0628\u0646 \u0639\u0627\u0631\u0641",
+        "screen_name": "alsharief73"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.3043976,
+              24.3320675
+            ],
+            [
+              47.0657557,
+              24.3320675
+            ],
+            [
+              47.0657557,
+              25.1118193
+            ],
+            [
+              46.3043976,
+              25.1118193
+            ],
+            [
+              46.3043976,
+              24.3320675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brandon",
+        "screen_name": "BrandonMasters9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.778559,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.141956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chris jaya",
+        "screen_name": "chrisjaya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0103034,
+              5.9587436
+            ],
+            [
+              125.2747524,
+              5.9587436
+            ],
+            [
+              125.2747524,
+              6.3298518
+            ],
+            [
+              125.0103034,
+              6.3298518
+            ],
+            [
+              125.0103034,
+              5.9587436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jolly Mampilly",
+        "screen_name": "jollymampilly"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.282852,
+              10.043925
+            ],
+            [
+              76.334709,
+              10.043925
+            ],
+            [
+              76.334709,
+              10.086131
+            ],
+            [
+              76.282852,
+              10.086131
+            ],
+            [
+              76.282852,
+              10.043925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LOWKEY SUPERSTAR",
+        "screen_name": "KARIFAUX"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud835\udc71\ud835\udc7e \ud83e\udda9",
+        "screen_name": "jemmwooden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              150.520928608,
+              -34.1183470085
+            ],
+            [
+              151.343020992,
+              -34.1183470085
+            ],
+            [
+              151.343020992,
+              -33.578140996
+            ],
+            [
+              150.520928608,
+              -33.578140996
+            ],
+            [
+              150.520928608,
+              -34.1183470085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LINA\ud83c\udf51",
+        "screen_name": "hoodlumlyfe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.300904,
+              41.516503
+            ],
+            [
+              -71.213917,
+              41.516503
+            ],
+            [
+              -71.213917,
+              41.655986
+            ],
+            [
+              -71.300904,
+              41.655986
+            ],
+            [
+              -71.300904,
+              41.516503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rob Carron",
+        "screen_name": "Robreferee"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.236008,
+              50.822226
+            ],
+            [
+              -0.1474382,
+              50.822226
+            ],
+            [
+              -0.1474382,
+              50.8569235
+            ],
+            [
+              -0.236008,
+              50.8569235
+            ],
+            [
+              -0.236008,
+              50.822226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garland Linkenhoger",
+        "screen_name": "GarlandLinkenh1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.6621438,
+              30.066754
+            ],
+            [
+              -95.576814,
+              30.066754
+            ],
+            [
+              -95.576814,
+              30.135969
+            ],
+            [
+              -95.6621438,
+              30.135969
+            ],
+            [
+              -95.6621438,
+              30.066754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victor Matarranz",
+        "screen_name": "vmatarranz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.8890049,
+              40.3120713
+            ],
+            [
+              -3.5180102,
+              40.3120713
+            ],
+            [
+              -3.5180102,
+              40.6435181
+            ],
+            [
+              -3.8890049,
+              40.6435181
+            ],
+            [
+              -3.8890049,
+              40.3120713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarah Dallaghan",
+        "screen_name": "SarahDallaghan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.5468143,
+              53.178753
+            ],
+            [
+              -6.252228,
+              53.178753
+            ],
+            [
+              -6.252228,
+              53.3682523
+            ],
+            [
+              -6.5468143,
+              53.3682523
+            ],
+            [
+              -6.5468143,
+              53.178753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Rossi",
+        "screen_name": "rossi_george"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.224215,
+              49.19854
+            ],
+            [
+              -123.022947,
+              49.19854
+            ],
+            [
+              -123.022947,
+              49.316738
+            ],
+            [
+              -123.224215,
+              49.316738
+            ],
+            [
+              -123.224215,
+              49.19854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corn\u00e9 Van Hoepen",
+        "screen_name": "Cvanhoepen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.639319,
+              43.403221
+            ],
+            [
+              -78.90582,
+              43.403221
+            ],
+            [
+              -78.90582,
+              43.855401
+            ],
+            [
+              -79.639319,
+              43.855401
+            ],
+            [
+              -79.639319,
+              43.403221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justice Graff",
+        "screen_name": "JusticeThePanda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.048915,
+              45.935021
+            ],
+            [
+              -96.554508,
+              45.935021
+            ],
+            [
+              -96.554508,
+              49.000693
+            ],
+            [
+              -104.048915,
+              49.000693
+            ],
+            [
+              -104.048915,
+              45.935021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ENJOY OUT NOW!!",
+        "screen_name": "KidMarleymusic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.2692963,
+              34.562636
+            ],
+            [
+              34.6063538,
+              34.562636
+            ],
+            [
+              34.6063538,
+              35.7087061
+            ],
+            [
+              32.2692963,
+              35.7087061
+            ],
+            [
+              32.2692963,
+              34.562636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAVE CONSULTANTS",
+        "screen_name": "am_saesben"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.846649,
+              38.72135
+            ],
+            [
+              125.774696,
+              38.72135
+            ],
+            [
+              125.774696,
+              43.473602
+            ],
+            [
+              118.846649,
+              43.473602
+            ],
+            [
+              118.846649,
+              38.72135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yash Gupta",
+        "screen_name": "YASHGUPTANDL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.84252,
+              28.397657
+            ],
+            [
+              77.347652,
+              28.397657
+            ],
+            [
+              77.347652,
+              28.879322
+            ],
+            [
+              76.84252,
+              28.879322
+            ],
+            [
+              76.84252,
+              28.397657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Folabie",
+        "screen_name": "folabie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3045544,
+              8.961887
+            ],
+            [
+              7.5436339,
+              8.961887
+            ],
+            [
+              7.5436339,
+              9.1854407
+            ],
+            [
+              7.3045544,
+              9.1854407
+            ],
+            [
+              7.3045544,
+              8.961887
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steven Heylen",
+        "screen_name": "stevenheylen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.3537557,
+              51.1095417
+            ],
+            [
+              4.4089154,
+              51.1095417
+            ],
+            [
+              4.4089154,
+              51.1512194
+            ],
+            [
+              4.3537557,
+              51.1512194
+            ],
+            [
+              4.3537557,
+              51.1095417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chuka phillip-jonson",
+        "screen_name": "beejonson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5231291,
+              52.3092332
+            ],
+            [
+              4.6317237,
+              52.3092332
+            ],
+            [
+              4.6317237,
+              52.4386947
+            ],
+            [
+              4.5231291,
+              52.4386947
+            ],
+            [
+              4.5231291,
+              52.3092332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83c\udf0a\u24bf\u24b6\u24ce\ud83c\uddfa\ud83c\uddf8\u24b7\u24c7\u24c4\u24cc\u24c3\ud83d\uddfd",
+        "screen_name": "TheMrJayBrown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.026675,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.683935
+            ],
+            [
+              -73.910408,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.877483
+            ],
+            [
+              -74.026675,
+              40.683935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "katia",
+        "screen_name": "Katia_Junior"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.210533,
+              34.332373
+            ],
+            [
+              133.456436,
+              34.332373
+            ],
+            [
+              133.456436,
+              34.712255
+            ],
+            [
+              133.210533,
+              34.712255
+            ],
+            [
+              133.210533,
+              34.332373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Texas Booster",
+        "screen_name": "JKSalinas_11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.008105,
+              35.467049
+            ],
+            [
+              -98.9561016,
+              35.467049
+            ],
+            [
+              -98.9561016,
+              35.52699
+            ],
+            [
+              -99.008105,
+              35.52699
+            ],
+            [
+              -99.008105,
+              35.467049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jen",
+        "screen_name": "jen14221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.00413617560737,
+              40.70733926976563
+            ],
+            [
+              -74.00413617560737,
+              40.70733926976563
+            ],
+            [
+              -74.00413617560737,
+              40.70733926976563
+            ],
+            [
+              -74.00413617560737,
+              40.70733926976563
+            ],
+            [
+              -74.00413617560737,
+              40.70733926976563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim M. Badbadon",
+        "screen_name": "kim_badbadon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.8840735,
+              14.3532317
+            ],
+            [
+              120.976885,
+              14.3532317
+            ],
+            [
+              120.976885,
+              14.4456071
+            ],
+            [
+              120.8840735,
+              14.4456071
+            ],
+            [
+              120.8840735,
+              14.3532317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jolly Mampilly",
+        "screen_name": "jollymampilly"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.282852,
+              10.043925
+            ],
+            [
+              76.334709,
+              10.043925
+            ],
+            [
+              76.334709,
+              10.086131
+            ],
+            [
+              76.282852,
+              10.086131
+            ],
+            [
+              76.282852,
+              10.043925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakal Times",
+        "screen_name": "sakaltimes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8031065,
+              18.4571648
+            ],
+            [
+              73.9656571,
+              18.4571648
+            ],
+            [
+              73.9656571,
+              18.5843633
+            ],
+            [
+              73.8031065,
+              18.5843633
+            ],
+            [
+              73.8031065,
+              18.4571648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamizi Habri",
+        "screen_name": "IziChong"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.4512347,
+              4.7082914
+            ],
+            [
+              119.2655211,
+              4.7082914
+            ],
+            [
+              119.2655211,
+              5.297374
+            ],
+            [
+              117.4512347,
+              5.297374
+            ],
+            [
+              117.4512347,
+              4.7082914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "100T JhbTeam",
+        "screen_name": "JhbTeam"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "h",
+        "screen_name": "hannmos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.482003,
+              32.528832
+            ],
+            [
+              -114.131212,
+              32.528832
+            ],
+            [
+              -114.131212,
+              42.009519
+            ],
+            [
+              -124.482003,
+              42.009519
+            ],
+            [
+              -124.482003,
+              32.528832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mc msonga",
+        "screen_name": "EricMsongz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.0081106,
+              -7.1906489
+            ],
+            [
+              39.5566698,
+              -7.1906489
+            ],
+            [
+              39.5566698,
+              -6.5669735
+            ],
+            [
+              39.0081106,
+              -6.5669735
+            ],
+            [
+              39.0081106,
+              -7.1906489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u092a\u094d\u0930\u094b\u092b\u0947\u0938\u0930 \u0921\u093e \u0905\u092e\u0930\u0947\u0936 \u091a\u0902\u0926\u094d\u0930 \u092a\u093e\u0923\u094d\u0921\u0947\u092f",
+        "screen_name": "Amaresh03335514"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.671054,
+              25.166781
+            ],
+            [
+              83.194857,
+              25.166781
+            ],
+            [
+              83.194857,
+              25.57997
+            ],
+            [
+              82.671054,
+              25.57997
+            ],
+            [
+              82.671054,
+              25.166781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Meehan",
+        "screen_name": "emillyy321"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.191421,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.227797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gregi Johnson",
+        "screen_name": "gregjohnson_vix"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3160379,
+              50.84278
+            ],
+            [
+              -113.859664,
+              50.84278
+            ],
+            [
+              -113.859664,
+              51.212548
+            ],
+            [
+              -114.3160379,
+              51.212548
+            ],
+            [
+              -114.3160379,
+              50.84278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hazza",
+        "screen_name": "vvvzrvl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.696411999967,
+              1.33636499997564
+            ],
+            [
+              103.866067828959,
+              1.33636499997564
+            ],
+            [
+              103.866067828959,
+              1.47223994098471
+            ],
+            [
+              103.696411999967,
+              1.47223994098471
+            ],
+            [
+              103.696411999967,
+              1.33636499997564
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrew G.",
+        "screen_name": "drewfitzz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.3688776,
+              17.7057855
+            ],
+            [
+              -76.183028,
+              17.7057855
+            ],
+            [
+              -76.183028,
+              18.5250291
+            ],
+            [
+              -78.3688776,
+              18.5250291
+            ],
+            [
+              -78.3688776,
+              17.7057855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr Nirmal Kandel",
+        "screen_name": "kandelnirmal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.119517,
+              46.2414255
+            ],
+            [
+              6.17436,
+              46.2414255
+            ],
+            [
+              6.17436,
+              46.2723128
+            ],
+            [
+              6.119517,
+              46.2723128
+            ],
+            [
+              6.119517,
+              46.2414255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abraar Karan",
+        "screen_name": "AbraarKaran"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.191421,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.227797
+            ],
+            [
+              -70.986004,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.399542
+            ],
+            [
+              -71.191421,
+              42.227797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marc Malkin",
+        "screen_name": "marcmalkin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eyenae Akwam",
+        "screen_name": "Eyenae"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9879342,
+              -3.1894778
+            ],
+            [
+              38.0789993,
+              -3.1894778
+            ],
+            [
+              38.0789993,
+              4.631608
+            ],
+            [
+              33.9879342,
+              4.631608
+            ],
+            [
+              33.9879342,
+              -3.1894778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piya Muqit",
+        "screen_name": "piyamuqit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.149429,
+              22.287976
+            ],
+            [
+              114.186575,
+              22.287976
+            ],
+            [
+              114.186575,
+              22.326723
+            ],
+            [
+              114.149429,
+              22.326723
+            ],
+            [
+              114.149429,
+              22.287976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bafti \u963f\u5e03",
+        "screen_name": "bafteee"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.998322,
+              27.14303
+            ],
+            [
+              122.65458,
+              27.14303
+            ],
+            [
+              122.65458,
+              31.176662
+            ],
+            [
+              117.998322,
+              31.176662
+            ],
+            [
+              117.998322,
+              27.14303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruno Contente",
+        "screen_name": "BrunzC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              150.520928608,
+              -34.1183470085
+            ],
+            [
+              151.343020992,
+              -34.1183470085
+            ],
+            [
+              151.343020992,
+              -33.578140996
+            ],
+            [
+              150.520928608,
+              -33.578140996
+            ],
+            [
+              150.520928608,
+              -34.1183470085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anurag Naidu",
+        "screen_name": "anuragconnect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3305776,
+              12.731936
+            ],
+            [
+              77.7863188,
+              12.731936
+            ],
+            [
+              77.7863188,
+              13.1142933
+            ],
+            [
+              77.3305776,
+              13.1142933
+            ],
+            [
+              77.3305776,
+              12.731936
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ricardo Da Silva",
+        "screen_name": "rickydee82"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.639319,
+              43.403221
+            ],
+            [
+              -78.90582,
+              43.403221
+            ],
+            [
+              -78.90582,
+              43.855401
+            ],
+            [
+              -79.639319,
+              43.855401
+            ],
+            [
+              -79.639319,
+              43.403221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83d\udc51",
+        "screen_name": "miraapunzel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.6151605,
+              3.0332003
+            ],
+            [
+              101.7587738,
+              3.0332003
+            ],
+            [
+              101.7587738,
+              3.2445482
+            ],
+            [
+              101.6151605,
+              3.2445482
+            ],
+            [
+              101.6151605,
+              3.0332003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "olympsecurities",
+        "screen_name": "olympmarkets"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.8939725,
+              24.6182526
+            ],
+            [
+              56.2083722,
+              24.6182526
+            ],
+            [
+              56.2083722,
+              25.3686719
+            ],
+            [
+              54.8939725,
+              25.3686719
+            ],
+            [
+              54.8939725,
+              24.6182526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhea Anne Celis MD",
+        "screen_name": "RealCalyxGreen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.4979499,
+              10.6789404
+            ],
+            [
+              122.6014566,
+              10.6789404
+            ],
+            [
+              122.6014566,
+              10.7798974
+            ],
+            [
+              122.4979499,
+              10.7798974
+            ],
+            [
+              122.4979499,
+              10.6789404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mark parisi",
+        "screen_name": "markparisipvt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.384091,
+              36.129459
+            ],
+            [
+              -115.062159,
+              36.129459
+            ],
+            [
+              -115.062159,
+              36.336371
+            ],
+            [
+              -115.384091,
+              36.336371
+            ],
+            [
+              -115.384091,
+              36.129459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angela Magana",
+        "screen_name": "AngelaMagana1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.507905,
+              28.3882177
+            ],
+            [
+              -81.2276403,
+              28.3882177
+            ],
+            [
+              -81.2276403,
+              28.615139
+            ],
+            [
+              -81.507905,
+              28.615139
+            ],
+            [
+              -81.507905,
+              28.3882177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurt McGaha",
+        "screen_name": "TheLaughsOnUs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.941453,
+              42.955994
+            ],
+            [
+              -78.822147,
+              42.955994
+            ],
+            [
+              -78.822147,
+              43.0313345
+            ],
+            [
+              -78.941453,
+              43.0313345
+            ],
+            [
+              -78.941453,
+              42.955994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud835\udc02\ud835\udc0e\ud835\udc0d\ud835\udc0d\ud835\udc08\ud835\udc04-\ud835\udc0c\ud835\udc00\ud835\udc11\ud835\udc08\ud835\udc04",
+        "screen_name": "bonniebenzz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.424332,
+              38.638355
+            ],
+            [
+              -121.335815,
+              38.638355
+            ],
+            [
+              -121.335815,
+              38.7044807
+            ],
+            [
+              -121.424332,
+              38.7044807
+            ],
+            [
+              -121.424332,
+              38.638355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BG0AUB",
+        "screen_name": "ZhaoFen37759626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.499413,
+              27.274471
+            ],
+            [
+              99.103699,
+              27.274471
+            ],
+            [
+              99.103699,
+              49.179948
+            ],
+            [
+              73.499413,
+              49.179948
+            ],
+            [
+              73.499413,
+              27.274471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Communicator \u2199\ufe0f",
+        "screen_name": "DE_COMMUNICATOR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7286875,
+              7.9862746
+            ],
+            [
+              6.2165322,
+              7.9862746
+            ],
+            [
+              6.2165322,
+              10.1837937
+            ],
+            [
+              2.7286875,
+              10.1837937
+            ],
+            [
+              2.7286875,
+              7.9862746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "51% Dad",
+        "screen_name": "claireeeevelyn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.3239143,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.8154652
+            ],
+            [
+              -112.3239143,
+              33.8154652
+            ],
+            [
+              -112.3239143,
+              33.29026
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
