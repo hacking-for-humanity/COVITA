@@ -1,5 +1,6 @@
 # COVITA
-Covid19 Text Analyzer
+
+COVITA (Covid19 Text Analyzer) finds the Insights on Covid19 outbreak, symptoms, news, medical kits and mental anxieties from Covid19 related Medical research papers and social networking data 
 
 Report: https://docs.google.com/document/d/1sIdA-4sH0JO_LTlDMBZzsz34aHPQxm3D79LRMskjEp0/
 
