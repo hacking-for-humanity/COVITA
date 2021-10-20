@@ -23,6 +23,7 @@ uplifting messages , predict outbreaks and create a marketplace for medical kit 
 
 ### Collect the Data
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2963169389322382/714053717136170/1585028396443806/latest.html
+
 https://github.com/hacking-for-humanity/COVITA/blob/master/Advanced/Utils.py
 
 ### Analyze the Hash-tags, User-mentions, Follower and Favourite count data
